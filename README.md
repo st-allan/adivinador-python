@@ -1,2 +1,2 @@
 # adivinador.py
-![banner](adivinador-python/images/adivinador-banner.jpg)
+![banner](/images/adivinador-banner.jpg)
